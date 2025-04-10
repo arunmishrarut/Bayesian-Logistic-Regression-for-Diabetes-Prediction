@@ -82,21 +82,21 @@ Fangru Linghu
 
 📚 References
 Literature Cited
-1. Vehtari, A., Gelman, A., & Gabry, J. (2017). Bayesian logistic regression with rstanarm. Kaggle. Retrieved from
-https://www.kaggle.com/code/avehtari/bayesian-logistic-regression-with-rstanarm/notebook
-2. Zhang, L. (n.d.). Statistical Learning with R. Kaggle. Retrieved from
-https://www.kaggle.com/code/laozhang/statistical-learning-with-r?scriptVersionId=445129
-3. UCI Machine Learning Repository. (n.d.). Pima Indians Diabetes Database. Retrieved from
-https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
-4. RStanArm Development Team. (2021). rstanarm: Bayesian Applied Regression Modeling via Stan. Retrieved from
-https://mc-stan.org/rstanarm/
-5. Goodrich, B., Gabry, J., Ali, I., & Brilleman, S. (2021). rstanarm: Bayesian applied regression modeling via Stan
-(Version 2.26.1) [Computer software manual]. Retrieved from
-https://cran.r-project.org/web/packages/rstanarm/vignettes/rstanarm.html
-6. Gabry, J., & Mahr, T. (2021). Bayesplot: Plotting for Bayesian models (Version 1.8.1) [Computer software manual].
-Retrieved from https://mc-stan.org/bayesplot/
-7. Vehtari, A., Gelman, A., & Gabry, J. (2021). Glossary of Terms in the Bayesian Workflow. LOO: Leave-One-Out
-Cross-Validation and Related Estimators. Retrieved from https://mc-stan.org/loo/reference/loo-glossary.html
-8. Stan Development Team. (2021). pp_check.stanreg: Posterior predictive checks for Bayesian regression models.
-Retrieved from https://mc-stan.org/rstanarm/reference/pp_check.stanreg.html
-9.Pima Indians Diabetes Dataset on Kaggle
+1. Vehtari, A., Gelman, A., & Gabry, J. (2017). Bayesian logistic regression with rstanarm. Kaggle.
+   Retrieved from https://www.kaggle.com/code/avehtari/bayesian-logistic-regression-with-rstanarm/notebook
+2. Zhang, L. (n.d.). Statistical Learning with R. Kaggle.
+   Retrieved from https://www.kaggle.com/code/laozhang/statistical-learning-with-r?scriptVersionId=445129
+3. UCI Machine Learning Repository. (n.d.). Pima Indians Diabetes Database.
+   Retrieved from https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+4. RStanArm Development Team. (2021). rstanarm: Bayesian Applied Regression Modeling via Stan.
+   Retrieved from https://mc-stan.org/rstanarm/
+6. Goodrich, B., Gabry, J., Ali, I., & Brilleman, S. (2021). rstanarm: Bayesian applied regression modeling via Stan (Version 2.26.1) [Computer software manual].
+   Retrieved from https://cran.r-project.org/web/packages/rstanarm/vignettes/rstanarm.html
+8. Gabry, J., & Mahr, T. (2021). Bayesplot: Plotting for Bayesian models (Version 1.8.1) [Computer software manual].
+   Retrieved from https://mc-stan.org/bayesplot/
+10. Vehtari, A., Gelman, A., & Gabry, J. (2021). Glossary of Terms in the Bayesian Workflow. LOO: Leave-One-Out Cross-Validation and Related Estimators.
+    Retrieved from https://mc-stan.org/loo/reference/loo-glossary.html
+11. Stan Development Team. (2021). pp_check.stanreg: Posterior predictive checks for Bayesian regression models.
+    Retrieved from https://mc-stan.org/rstanarm/reference/pp_check.stanreg.html
+12. [Pima Indians Diabetes Dataset on Kaggle
+    Retrieved from https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
