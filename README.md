@@ -82,9 +82,16 @@ Fangru Linghu
 
 📚 References
 Key resources and packages:
+''markdown 
+   [rstanarm](https://mc-stan.org/rstanarm/)
 
-rstanarm
+   [Bayesplot](https://mc-stan.org/bayesplot/)
 
-Bayesplot
+
+   
+   
+
+
+
 
 Pima Indians Diabetes Dataset on Kaggle
