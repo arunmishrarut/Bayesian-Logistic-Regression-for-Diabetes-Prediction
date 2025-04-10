@@ -1,7 +1,3 @@
-
-https://www.youtube.com/watch?v=JV74z_Uf9H4&ab_channel=SaregamaMusic
-
-
 # Bayesian-Logistic-Regression-for-Diabetes-Prediction
 This project explores the application of Bayesian Logistic Regression for binary classification, using a real-world dataset to predict diabetes outcomes. Developed as part of a statistical modeling course, the project delves into the theory, implementation, and performance evaluation of Bayesian approaches using MCMC sampling.
 
