@@ -74,11 +74,12 @@ Data Cleaning and Normalization
 Bayesian logistic regression is a robust approach for binary classification tasks, with flexible model construction and interpretability. While priors did not drastically affect outcomes in this case, future work could explore more complex datasets and hyperparameter tuning.
 
 👥 Team
-Anitej Biradar
 
 Arun Mishra
 
 Fangru Linghu
+
+Anitej Biradar
 
 📚 References
 Literature Cited
